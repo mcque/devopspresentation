@@ -95,7 +95,9 @@ For example, microservices and continuous delivery let teams take ownership of s
 
 ## Improved Collaboration
 
-Build more effective teams under a DevOps cultural model, which emphasizes values such as ownership and accountability. Developers and operations teams collaborate closely, share many responsibilities, and combine their workflows. This reduces inefficiencies and saves time (e.g. reduced handover periods between developers and operations, writing code that takes into account the environment in which it is run).
+- Build more effective teams under a DevOps cultural model, which emphasizes values such as ownership and accountability.
+- Developers and operations teams collaborate closely, share many responsibilities, and combine their workflows.
+- This reduces inefficiencies and saves time (e.g. reduced handover periods between developers and operations, writing code that takes into account the environment in which it is run).
 
 +++
 
@@ -183,6 +185,7 @@ Developers and system administrators use code to automate operating system and h
 
 +++?code=src/terraform/main.tf&title=Source: Terraform File
 
++++
 
 ### Policy as Code
 
