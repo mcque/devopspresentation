@@ -126,7 +126,11 @@ DevOps is a new term emerging from the collision of two major related trends. Th
 
 # Hypothesis Driven development
 
+We Believe That increasing the size of hotel images on the booking page
 
+Will Result In improved customer engagement and conversion
+
+We Will Know We Have Succeeded When we see a 5% increase in customers who review hotel images who then proceed to book in 48 hours.
 
 +++?image=assets/img/pipeline.png&size=60% 60%
 @snap[north]
