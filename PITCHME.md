@@ -11,6 +11,12 @@
 
 +++
 
+- Long lead times
+- Not realising business value until complete
+- no feedback until large releases
+
++++
+
 ![workedfine](assets/img/workedfineindev.jpg)
 
 ---
@@ -60,12 +66,13 @@ http://agilemanifesto.org/principles.html
 
 ## Speed
 
-- Move at high velocity so you can innovate for customers faster,
-- adapt to changing markets better, and grow more efficient at driving business results.
-- enables your developers and operations teams to achieve these results.
+- Move at high velocity so you can innovate for customers faster.
+- Adapt to changing markets better, and grow more efficient at driving business results.
+-
 
 note:
-For example, microservices and continuous delivery let teams take ownership of services and then release updates to them quicker.
+For example, micro services and continuous delivery let teams take ownership of services and then release updates to them quicker.
+Empowers your developers and operations teams to achieve these results.
 
 +++
 
