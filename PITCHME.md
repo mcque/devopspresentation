@@ -124,7 +124,7 @@ DevOps is a new term emerging from the collision of two major related trends. Th
 
 +++
 
-# Hypothesis Driven development
+## Hypothesis Driven development
 
 We Believe That increasing the size of hotel images on the booking page
 
