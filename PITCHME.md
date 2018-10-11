@@ -41,11 +41,11 @@ http://agilemanifesto.org/principles.html
 
 @ul
 
-- @size[0.5em](“A cross-disciplinary community of practice dedicated to the study of building, evolving and operating rapidly-changing resilient systems at scale.” Jez Humble)
+- @size[0.5em](“A cross-disciplinary community of practice dedicated to the study of building, evolving and operating rapidly-changing resilient systems at scale.”)
 
 - @size[0.5em](“DevOps is the practice of operations and development engineers participating together in the entire service lifecycle, from design through the development process to production support.”)
 
-- @size[0.5em](“DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes. This speed enables organizations to better serve their customers and compete more effectively in the market. ” AWS)
+- @size[0.5em](“DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes. This speed enables organizations to better serve their customers and compete more effectively in the market. ”)
 @ulend
 
 +++
@@ -103,7 +103,10 @@ For example, microservices and continuous delivery let teams take ownership of s
 
 ## Security
 
-Move quickly while retaining control and preserving compliance. You can adopt a DevOps model without sacrificing security by using automated compliance policies, fine-grained controls, and configuration management techniques. For example, using infrastructure as code and policy as code, you can define and then track compliance at scale.
+Move quickly while retaining control and preserving compliance. You can adopt a DevOps model without sacrificing security by using automated compliance policies, fine-grained controls, and configuration management techniques.
+
+note:
+For example, using infrastructure as code and policy as code, you can define and then track compliance at scale.
 
 
 ---
