@@ -35,8 +35,9 @@ http://agilemanifesto.org/principles.html
 ![the goal](assets/img/thegoal.jpg)
 
 +++
-
+@snap[north]
 ![demming](assets/img/wedemming.jpg)
+@snapend
 “Cease dependence on inspection to achieve quality. Eliminate the need for massive inspection by building quality into the product in the first place.”
 
 ---
