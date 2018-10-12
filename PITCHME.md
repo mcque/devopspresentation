@@ -5,7 +5,7 @@
 
 
 
----?image=assets/img/darkages.png
+---?image=assets/img/darkages.jpg
 
 ## Background
 
