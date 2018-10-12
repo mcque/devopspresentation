@@ -66,26 +66,20 @@ http://agilemanifesto.org/principles.html
 
 +++
 
-## Speed
+## Rapid Delivery
 
 - Move at high velocity so you can innovate for customers faster.
 - Adapt to changing markets better, and grow more efficient at driving business results.
--
+- Increase the frequency and pace of releases so you can innovate and improve your product faster.
+- The quicker you can release new features and fix bugs, the faster you can respond to your customers’ needs and build competitive advantage.
+- Continuous integration and continuous delivery are practices that automate the software release process, from build to deploy.
+
 
 note:
 For example, micro services and continuous delivery let teams take ownership of services and then release updates to them quicker.
 Empowers your developers and operations teams to achieve these results.
 
 +++
-
-## Rapid Delivery
-
-- Increase the frequency and pace of releases so you can innovate and improve your product faster.
-- The quicker you can release new features and fix bugs, the faster you can respond to your customers’ needs and build competitive advantage.
-- Continuous integration and continuous delivery are practices that automate the software release process, from build to deploy.
-
-+++
-
 ## Reliability
 
 - Ensure the quality of application updates and infrastructure changes so you can reliably deliver at a more rapid pace while maintaining a positive experience for end users.
