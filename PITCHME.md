@@ -38,8 +38,9 @@ http://agilemanifesto.org/principles.html
 @snap[north]
 ![demming](assets/img/wedemming.jpg)
 @snapend
+@snap[south]
 “Cease dependence on inspection to achieve quality. Eliminate the need for massive inspection by building quality into the product in the first place.”
-
+@snapend
 ---
 
 # DevOps?
